@@ -15,8 +15,8 @@ https://github.com/user-attachments/assets/1e52f2c7-753a-4075-88a8-b319208ea69f
 1. Clone the repository:
    git clone https://github.com/username/text-editor.git
 2. Compile and run the program
-  javac editor/TextEditor.java
-  java editor.TextEditor
+      - javac editor/TextEditor.java
+      - java editor.TextEditor
 3. Enjoy editing your text! ✍️
    
 **How to Use the App**
